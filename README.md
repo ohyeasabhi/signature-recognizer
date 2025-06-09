@@ -10,18 +10,18 @@
 
 ## 📌 Sumário
 
-1.  [Sobre o Projeto](https://www.google.com/search?q=%23-sobre-o-projeto)
-2.  [Objetivos](https://www.google.com/search?q=%23-objetivos)
-3.  [Tecnologias](https://www.google.com/search?q=%23-tecnologias)
-4.  [Funcionalidades](https://www.google.com/search?q=%23-funcionalidades)
-5.  [Pré-requisitos](https://www.google.com/search?q=%23%25EF%25B8%258F-pr%C3%A9-requisitos)
-6.  [Instalação](https://www.google.com/search?q=%23%25EF%25B8%258F-instala%C3%A7%C3%A3o)
-7.  [Como utilizar](https://www.google.com/search?q=%23-como-utilizar)
-8.  [Estrutura do Projeto](https://www.google.com/search?q=%23-estrutura-do-projeto)
-9.  [Contribuição](https://www.google.com/search?q=%23-contribui%C3%A7%C3%A3o)
-10. [Licença](https://www.google.com/search?q=%23-licen%C3%A7a)
-11. [Contato](https://www.google.com/search?q=%23-contato)
-12. [Recursos Adicionais](https://www.google.com/search?q=%23-recursos-adicionais)
+1. [Sobre o Projeto](#-sobre-o-projeto)  
+2. [Objetivos](#-objetivos)  
+3. [Tecnologias](#-tecnologias)  
+4. [Funcionalidades](#-funcionalidades)  
+5. [Pré-requisitos](#%EF%B8%8F-pré-requisitos)  
+6. [Instalação](#%EF%B8%8F-instalação)  
+7. [Como utilizar](#-como-utilizar)
+8. [Estrutura do Projeto](#-estrutura-do-projeto)
+9. [Contribuição](#-contribuição)  
+10. [Licença](#-licença)  
+11. [Contato](#-contato)  
+12. [Recursos Adicionais](#-recursos-adicionais)  
 
 ## 💻 Sobre o Projeto
 
